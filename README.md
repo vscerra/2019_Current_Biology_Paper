@@ -6,3 +6,5 @@ All analyses were conducted in MATALB, and all figures were coded in MATLAB.
 The Figures break down as follows: 
 
 Figure 1 : presents all four tasks used in the experiment. No additional files or functions are necessary to use this .m file. 
+
+Figure 2 : plots the various behavioral curves used to measure task performance. The behavior_data.mat file is necessary to produce the curves in the figure. 
