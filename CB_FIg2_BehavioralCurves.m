@@ -8,7 +8,7 @@ clear
 initdat = 1;
 
 if initdat == 1
-    load('TachData.mat')
+    load('behavior_data.mat')
 end
 
 Nfigs = 6;
